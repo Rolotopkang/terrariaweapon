@@ -1,0 +1,16 @@
+[
+{
+  "modid": "terrariaweapon",
+  "name": "Terrariaweapon",
+  "description": "Add terraria's weapon to minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rolotopkang"],
+  "credits": "no credits:)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

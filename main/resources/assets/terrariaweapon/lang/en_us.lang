@@ -1,0 +1,24 @@
+#物品
+item.terrariaweapon.sacredingot.name=Sacred Ingot
+item.terrariaweapon.smoothcoal.name=Smooth Coal
+item.terrariaweapon.souloffright.name=Soul Of Fright
+
+#工具
+item.terrariaweapon.sacredpickaxe.name=Sacred Pickaxe
+
+#盔甲
+item.terrariaweapon.sacredArmor.feet.name=Sacred Boots
+item.terrariaweapon.sacredArmor.legs.name=Sacred Leggings
+item.terrariaweapon.sacredArmor.chest.name=Sacred Chestplate
+item.terrariaweapon.sacredArmor.head.name=Sacred Helmet
+
+#方块
+tile.terrariaweapon.silt.name=Silt
+
+#创造模式物品栏
+itemGroup.terrariaweapon=terrariaweapon
+itemGroup.terrariaweapontools=terrariaweapontools
+itemGroup.terrariaweaponEquipments=terrariaweaponEquipments
+
+#附魔
+enchantment.terrariaweapon.explosion=Explosion
